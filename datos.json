@@ -1,0 +1,35 @@
+{
+  "clases": [
+    {
+      "id": 1,
+      "nombreClase": "Programación",
+      "docente": "Nancy",
+      "cantTotalClases": 30,
+      "diasAsistidos": 4,
+      "horario": "Lunes: 15:30 - 17:00"
+    },
+    {
+      "id": 2,
+      "nombreClase": "Ingles",
+      "docente": "Juan Gomez",
+      "cantTotalClases": 25,
+      "diasAsistidos": 3,
+      "horario": "Miercoles: 15:30 - 17:00"
+    },
+    {
+      "id": 3,
+      "nombreClase": "Mates",
+      "docente": "Juanita",
+      "cantTotalClases": 17,
+      "diasAsistidos": 2,
+      "horario": "Martes: 15:30 - 17:00"
+    }
+  ],
+  "auths": [
+    {
+      "id": 1,
+      "nombre": "usuario",
+      "estado": false
+    }
+  ]
+}
