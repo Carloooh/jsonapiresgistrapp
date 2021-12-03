@@ -24,12 +24,5 @@
       "diasAsistidos": 2,
       "horario": "Martes: 15:30 - 17:00"
     }
-  ],
-  "auths": [
-    {
-      "id": 1,
-      "nombre": "usuario",
-      "estado": false
-    }
   ]
 }
