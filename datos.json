@@ -24,5 +24,27 @@
       "diasAsistidos": 2,
       "horario": "Martes: 15:30 - 17:00"
     }
+  ],
+  "asistencias": [
+    {
+      "idAsignatura": "asfafasdfas",
+      "seccion": "fasfasdf",
+      "asignatura": "asfasfsd",
+      "docente": "fafasdfasd",
+      "correo": "ksdhfjkds",
+      "fecha": "dfsdfsd",
+      "hora": "ahora xd",
+      "id": 1
+    },
+    {
+      "idAsignatura": "XXX0000",
+      "seccion": "00",
+      "asignatura": "Prueba",
+      "docente": "profesor",
+      "correo": "correo@prueba.cl",
+      "fecha": "12/4/2021",
+      "hora": "5:34:36 PM",
+      "id": 2
+    }
   ]
 }
